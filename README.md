@@ -26,7 +26,7 @@
 
 ## 📸 Tampilan Aplikasi
 
-<img src="https://github.com/user-attachments/assets/fa6cdf79-481d-475f-acf0-234790ffb496" alt="Sako App Screenshot" />
+![C8 Core Challenge Exhibition - Sako App](https://github.com/user-attachments/assets/5b955dc5-00dd-4d18-89cc-500210eeab07)
 
 ## ✅ Persyaratan
 

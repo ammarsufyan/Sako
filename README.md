@@ -35,7 +35,7 @@
 
 ## 👥 Anggota Tim
 
-Dibuat oleh **Team 5 – Morning**:
+Dibuat oleh **Team 5 (Morning)**:
 - Ammar Sufyan  
 - Callista Andreane  
 - Kelvin Alexander Bong

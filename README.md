@@ -18,19 +18,24 @@
 - 🔍 **Pencarian & Filter Cerdas**  
   Temukan transaksi atau produk dengan cepat menggunakan fitur pencarian dan filter berdasarkan tanggal.
 
-## 📸 Tampilan Aplikasi
-
-<img src="https://github.com/user-attachments/assets/fa6cdf79-481d-475f-acf0-234790ffb496" alt="Sako App Screenshot" />
-
 ## 🚀 Teknologi
 
 - Swift
 - SwiftUI
 - SwiftData
 
+## 📸 Tampilan Aplikasi
+
+<img src="https://github.com/user-attachments/assets/fa6cdf79-481d-475f-acf0-234790ffb496" alt="Sako App Screenshot" />
+
+## ✅ Persyaratan
+
+- **Xcode 16.0** atau lebih baru.
+- **iOS 18.0** atau lebih baru.
+
 ## 👥 Anggota Tim
 
-Dibuat dengan ❤️ oleh **Team 5 – Morning Shift**:
+Dibuat oleh **Team 5 – Morning**:
 - Ammar Sufyan  
 - Callista Andreane  
 - Kelvin Alexander Bong

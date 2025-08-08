@@ -1,6 +1,6 @@
-# 🧾 Sako – Offline Canteen System
+# 🧾 Sako
 
-**Sako** is an iOS application that helps record sales transactions in canteens **offline**. Specifically designed for convenience and efficiency without relying on an internet connection.
+**Sako** is an iOS application that helps record sales transactions **offline**. Specifically designed for convenience and efficiency without relying on an internet connection.
 
 <img src="https://github.com/user-attachments/assets/9e2d4e3c-6bba-4d01-9ef6-0bf78df49665" width="250px" alt="Sako Logo">
 
